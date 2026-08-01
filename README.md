@@ -16,7 +16,8 @@ I made so i can upload photos and videos from m camera to my computer and also h
 The case is made from 2 parts: the main body and the cover (there are holes for the Ports in the cover)
 I made it without screw holes it is completely screwless (to save money and complexity) I made it so I can superglue it together 
 The case has a lip on the bottom that attaches to my keyboard (again with super glue) (you can see it better in the photo)
-
+The ports on the case are slightly larger than they need to be because I want to make sure everything fits in case the manufacturers measured it wrong
+And also the whole for the pcb is slightly larger just in case again
 _______________________________________________________________________________________________________________________
 
 ## THE PCB 
