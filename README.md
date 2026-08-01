@@ -56,6 +56,12 @@ BOTTOM:
 
 Cost:(without 3d printer costs) 36.04USD+ 8.54USD shipping
 
+**LCSCPARTSLIST:**
+(so this is a file for every part on the pcb I already have this in JLCPCB so i wont be buying from here but incase somebody needs it here)
+
+[export_project_20260801_080103.xls](https://github.com/user-attachments/files/30608933/export_project_20260801_080103.xls)
+
+
 So thats another project completed this time more focused on PCB and schematic making more than designing but still good 
 Thanks to HACKCLUB I was able to gather the knolwedge to make this project 
 
